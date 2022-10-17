@@ -1,0 +1,23 @@
+p, h1 {
+    text-align: center;}
+ol:hover {
+    background-color: #1ce709; 
+
+        transition: 0.5s;
+        
+        opacity: 0.7;
+        text-decoration: none;
+        
+        
+        
+        }
+    ol:active{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    ul, ol{
+        list-style: none;
+    }
+    div{
+        
+    }
